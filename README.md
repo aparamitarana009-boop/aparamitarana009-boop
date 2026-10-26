@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Aparamita 👋🍄
 
-<!--
-**aparamitarana009-boop/aparamitarana009-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Plant pathologist turned bioinformatician.** I study how plants and fungi fight, cooperate and cope with stress, from the petri dish all the way to the sequencing data.
 
-Here are some ideas to get you started:
+### 🔬 What I do
+- Hunt down fungal pathogens of trees and test natural enemies against them (*Trichoderma*, essential oils)
+- Run greenhouse experiments where saplings face drought, stress and fungi
+- Build qPCR and qLAMP assays to catch pathogens early
+- Turn millions of RNA-seq reads into biology with R, Galaxy and Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Where I've been
+India 🇮🇳 → Italy 🇮🇹 → Germany 🇩🇪
+Currently: Research Assistant at the Institute of Bioinformatics, University of Freiburg
+
+### 🌱 What I'm learning now
+Statistics in R, and how to bring lab, field and omics data together into one story
+
+### ⚡ Fun fact
+Wet-lab biologist by training, bioinformatician by curiosity, astronomer by night. Statistics and I are still on a first-date basis 🔭📊
+
+### 📫 Find me
+[ORCID](https://orcid.org/0009-0003-6304-0149) · [LinkedIn](https://www.linkedin.com/in/aparamita-rana-b3a18b175/) · aparamitarana009@gmail.com
